@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yapz#b(7)(zfd^rowsfoju=48^nq-jpvz)upe#fl^f)b9t67f%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [QinNacht.pythonanywhere.com]
+ALLOWED_HOSTS = ['QinNacht.pythonanywhere.com']
 
 
 # Application definition
